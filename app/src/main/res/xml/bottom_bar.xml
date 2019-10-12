@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <tab
+        id="@+id/tab1"
+        title="Recents"
+
+         />
+    <tab
+        id="@+id/tab2"
+        title="Recents"
+
+        />
+    <tab
+        id="@+id/tab3"
+        title="Recents"
+
+        />
+    <tab
+    id="@+id/tab4"
+    title="Recents"
+
+    />
+
+
+</PreferenceScreen>

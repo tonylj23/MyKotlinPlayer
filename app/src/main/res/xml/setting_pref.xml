@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <Preference android:key="clear_cache"
+        android:title="清除缓存"/>
+    <SwitchPreference
+        android:key="push"
+        android:title="推动通知"/>
+    <SwitchPreference
+        android:key="wifi"
+        android:title="wifi下载图片"/>
+
+
+</PreferenceScreen>
